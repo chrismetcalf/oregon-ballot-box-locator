@@ -58,7 +58,7 @@ def lookup_facilities(zip_code)
       say "Sorry, I did not find any results for your search."
     else
       say "I found #{results.size} matches. I'll read them to you now."
-      say results.map{|r| "#{r[9]} at #{r[10]}. Their hours are #{r[15]}." }.join(" or, ")
+      say results.map{|r| "#{r[14]} at #{r[10]}" }.join(" or, ")
     end
   end
 end
