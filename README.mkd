@@ -1,3 +1,5 @@
 This is a sample application for the [Data.Oregon.Gov Open Data Website](http://data.oregon.gov), built using the [Socrata Open Data API](http://dev.socrata.com) and [Tropo](http://www.tropo.com).
 
+To try it out, call (206) 397-0774.
+
 For more details on a similar app, see my blog post at http://dev.socrata.com/blog/2010/10/28/making-government-data-accessible-by-phone-using-soda-and-tropo/.
